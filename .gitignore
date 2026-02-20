@@ -1,0 +1,11 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Tableau temporary files
+*.tmp
+*.bak
+
+# Local data exports
+/data/*.csv
+/data/*.xlsx
